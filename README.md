@@ -1,7 +1,7 @@
-# About Me
+# :floppy_disk: About Me
 I'm a 19 years old developer trying to improve my skills.
 
-# Skills
+# :bookmark_tabs: Skills
 ![C#](https://img.shields.io/badge/C%23-5b0080?style=for-the-badge&logo=csharp)
 ![.Net](https://img.shields.io/badge/.NET-330659?style=for-the-badge&logo=.Net)
 ![HTML](https://img.shields.io/badge/HTML-de4628?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,7 +14,7 @@ I'm a 19 years old developer trying to improve my skills.
 ![Blender](https://img.shields.io/badge/Blender-%23e37b19?style=for-the-badge&logo=Blender&logoColor=white)
 ![C](https://img.shields.io/badge/C-29609e?style=for-the-badge&logo=c&logoColor=white)
 
-# Stats
+# :bar_chart: Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TomsBack&theme=tokyonight&hide_border=true" />
 </a>
@@ -25,4 +25,6 @@ I'm a 19 years old developer trying to improve my skills.
   <img height=200 width=928 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomsBack&theme=tokyonight&hide_border=true" />
 </a>
 
-## Socials
+## :e-mail: Socials
+![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1c1c?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftomas-oplistil-38a893269%2F)
+![Discord](https://img.shields.io/badge/Discord-2f2a4d?style=for-the-badge&logo=Discord&logoColor=white&link=https%3A%2F%2Fdiscordid.netlify.app%2F%3Fid%3D271324181159739404)
