@@ -2,7 +2,12 @@
 I'm a 19 years old developer trying to improve my skills.
 
 # Skills
+![C](https://img.shields.io/badge/C-29609e?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5b0080?style=for-the-badge&logo=csharp)
+![.Net](https://img.shields.io/badge/.NET-330659?style=for-the-badge&logo=.Net)
+![Lua](https://img.shields.io/badge/Lua-070357?style=for-the-badge&logo=lua)
+![Source Engine](https://img.shields.io/badge/Source-1c1c1c?style=for-the-badge&logo=Source%20Engine)
+![Blender](https://img.shields.io/badge/Blender-%23e37b19?style=for-the-badge&logo=Blender&logoColor=white)
 
 
 # Stats
@@ -13,7 +18,7 @@ I'm a 19 years old developer trying to improve my skills.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomsBack&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=900 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomsBack&theme=tokyonight&hide_border=true" />
+  <img height=200 width=928 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomsBack&theme=tokyonight&hide_border=true" />
 </a>
 
 ## Socials
