@@ -26,5 +26,9 @@ I'm a 19 years old developer trying to improve my skills.
 </a>
 
 ## :e-mail: Socials
-![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1c1c?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftomas-oplistil-38a893269%2F)
-![Discord](https://img.shields.io/badge/Discord-2f2a4d?style=for-the-badge&logo=Discord&logoColor=white&link=https%3A%2F%2Fdiscordid.netlify.app%2F%3Fid%3D271324181159739404)
+<a href="https://www.linkedin.com/in/tomas-oplistil-38a893269/">
+  <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-1c1c1c?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+<a href="https://discordid.netlify.app/?id=271324181159739404">
+  <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-2f2a4d?style=for-the-badge&logo=Discord&logoColor=white">
+</a>
