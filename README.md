@@ -1,19 +1,19 @@
-### Hi there 👋
+# About Me
+I'm a 19 years old developer trying to improve my skills.
 
-https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=csharp
+# Skills
+![C#](https://img.shields.io/badge/C%23-5b0080?style=for-the-badge&logo=csharp)
 
 
-<!--
-**TomsBack/TomsBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TomsBack&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomsBack&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 width=900 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomsBack&theme=tokyonight&hide_border=true" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
