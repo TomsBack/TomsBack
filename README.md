@@ -22,7 +22,7 @@ I'm a 19 years old developer trying to improve my skills.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomsBack&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=928 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomsBack&theme=tokyonight&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomsBack&theme=tokyonight&hide_border=true" />
 </a>
 
 ## :e-mail: Socials
