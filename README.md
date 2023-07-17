@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=csharp
+
+
 <!--
 **TomsBack/TomsBack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
