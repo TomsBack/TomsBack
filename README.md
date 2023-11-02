@@ -6,7 +6,11 @@ I'm a 19 years old developer trying to improve my skills.
 ![.Net](https://img.shields.io/badge/.NET-330659?style=for-the-badge&logo=.Net)
 ![HTML](https://img.shields.io/badge/HTML-de4628?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-144875?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-faf378?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2327292e?style=for-the-badge&logo=react)
+
 ![MS SQL](https://img.shields.io/badge/MS_SQL-25385c?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)
 
 ![Lua](https://img.shields.io/badge/Lua-070357?style=for-the-badge&logo=lua)
