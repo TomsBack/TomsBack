@@ -19,20 +19,11 @@ I'm a 19 years old developer trying to improve my skills.
 ![C](https://img.shields.io/badge/C-29609e?style=for-the-badge&logo=c&logoColor=white)
 
 # :bar_chart: Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-rho-peach-32.vercel.app/api?username=TomsBack&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-rho-peach-32.vercel.app/api/top-langs/?username=TomsBack&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomsBack&theme=tokyonight&hide_border=true" />
 </a>
 
 ## :e-mail: Socials
-<a href="https://www.linkedin.com/in/tomas-oplistil-38a893269/">
-  <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-1c1c1c?style=for-the-badge&logo=LinkedIn&logoColor=white">
-</a>
 <a href="https://discordid.netlify.app/?id=271324181159739404">
   <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-2f2a4d?style=for-the-badge&logo=Discord&logoColor=white">
 </a>
