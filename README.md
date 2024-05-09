@@ -1,5 +1,5 @@
 # :floppy_disk: About Me
-I'm a 19 years old developer trying to improve my skills.
+Czech dumbo
 
 # :bookmark_tabs: Skills
 ![C#](https://img.shields.io/badge/C%23-5b0080?style=for-the-badge&logo=csharp)
