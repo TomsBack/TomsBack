@@ -16,7 +16,6 @@ Czech dumbo
 ![Lua](https://img.shields.io/badge/Lua-070357?style=for-the-badge&logo=lua)
 ![Source Engine](https://img.shields.io/badge/Source-1c1c1c?style=for-the-badge&logo=Source%20Engine)
 ![Blender](https://img.shields.io/badge/Blender-%23e37b19?style=for-the-badge&logo=Blender&logoColor=white)
-![C](https://img.shields.io/badge/C-29609e?style=for-the-badge&logo=c&logoColor=white)
 
 # :bar_chart: Stats
 <a href="https://github.com/anuraghazra/convoychat">
