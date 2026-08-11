@@ -16,13 +16,3 @@ Czech dumbo
 ![Lua](https://img.shields.io/badge/Lua-070357?style=for-the-badge&logo=lua)
 ![Source Engine](https://img.shields.io/badge/Source-1c1c1c?style=for-the-badge&logo=Source%20Engine)
 ![Blender](https://img.shields.io/badge/Blender-%23e37b19?style=for-the-badge&logo=Blender&logoColor=white)
-
-# :bar_chart: Stats
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TomsBack&theme=tokyonight&hide_border=true" />
-</a>
-
-## :e-mail: Socials
-<a href="https://discordid.netlify.app/?id=271324181159739404">
-  <img alt="Discord Badge" src="https://img.shields.io/badge/Discord-2f2a4d?style=for-the-badge&logo=Discord&logoColor=white">
-</a>
